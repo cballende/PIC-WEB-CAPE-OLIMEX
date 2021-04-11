@@ -1,5 +1,6 @@
 PIC-WEB-CAPE
-This project template is the basis of an expansion board "CAPE" for the OLIMEX PIC-WEB
+This project template for KITCAD is the basis of an expansion board 
+"CAPE" for the OLIMEX PIC-WEB.
 For example Olimex PIC-WEB Rev C, Rev D ect...
 This base project includes a PCB edge defined as the same
 size as the PIC-WEB Rev C PCB with the connectors placed
