@@ -1,5 +1,5 @@
 PIC-WEB-CAPE
-This project template for KITCAD is the basis of an expansion board 
+This project template for KICAD EDA is the basis of an expansion board 
 "CAPE" for the OLIMEX PIC-WEB.
 For example Olimex PIC-WEB Rev C, Rev D ect...
 This base project includes a PCB edge defined as the same
