@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Socket_PIC-WEB-CAPE)(type KiCad)(uri "$(KIPRJMOD)/Socket_PIC-WEB-CAPE.pretty")(options "")(descr ""))
+)
